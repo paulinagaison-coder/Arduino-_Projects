@@ -27,4 +27,4 @@ When the countdown finishes, it prints "=== Countdown Complete ===".
 
 ## Author
 
-Joshua Nana Kojo Gaison. 252640..., BCE Level 100A, Faculty of Engineering, GCTU
+Joshua Nana Kojo Gaison. 2526401970, BCE Level 100A, Faculty of Engineering, GCTU
